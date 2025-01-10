@@ -1,1 +1,0 @@
-(()=>{"use strict";({helloEs(){console.log("hello ES")}}).helloEs(),require("./common.js").helloCommonJS()})();

@@ -17,8 +17,5 @@
     "url": "https://github.com/ralphkristiankalur/mm23learnnode/issues"
   },
   "homepage": "https://github.com/ralphkristiankalur/mm23learnnode#readme",
-  "description": "",
-  "dependencies": {
-    "boxen": "^8.0.1"
-  }
+  "description": ""
 }

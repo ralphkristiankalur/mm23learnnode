@@ -2,7 +2,7 @@
   "name": "learnnode",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "commonjs",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,5 +17,8 @@
     "url": "https://github.com/ralphkristiankalur/mm23learnnode/issues"
   },
   "homepage": "https://github.com/ralphkristiankalur/mm23learnnode#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "boxen": "^8.0.1"
+  }
 }

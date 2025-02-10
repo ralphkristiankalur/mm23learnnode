@@ -26,6 +26,7 @@
     "postcss-loader": "^8.1.1",
     "sass": "^1.83.1",
     "sass-loader": "^16.0.4",
+    "simple-nunjucks-loader": "^3.2.0",
     "style-loader": "^4.0.0",
     "webpack": "^5.97.1",
     "webpack-cli": "^6.0.1",

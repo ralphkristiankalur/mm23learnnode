@@ -67,8 +67,8 @@ export default {
           {
             loader: 'simple-nunjucks-loader',
             options: {}
-          }
-        ]
+          },
+        ],
       },
       {
         test: /\.vue$/,
